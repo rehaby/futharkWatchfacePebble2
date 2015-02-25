@@ -1,0 +1,25 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "ben.vic.5@gmail.com",
+    "longName": "Futhark WatchFace",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "fonts/danish_futhark_sharp.ttf",
+                "name": "FUTHARK_48",
+                "type": "font"
+            }
+        ]
+    },
+    "shortName": "Futhark WatchFace",
+    "uuid": "684805ce-92b5-498f-aaf9-6c9bfaed88ae",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": true
+    }
+}
